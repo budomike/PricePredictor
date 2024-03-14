@@ -1,6 +1,5 @@
-# PricePredictor
+# Housing Price Prediction Model
 
-Housing Price Prediction Model
 
 This Python program implements a predictive model for housing prices based on various features such as square footage, number of bedrooms and bathrooms, neighborhood, and year built. The model utilizes the scikit-learn library for data preprocessing, model training, and prediction. Key features of the program include:
 
