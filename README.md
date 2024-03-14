@@ -3,6 +3,7 @@
 
 This Python program implements a predictive model for housing prices based on various features such as square footage, number of bedrooms and bathrooms, neighborhood, and year built. The model utilizes the scikit-learn library for data preprocessing, model training, and prediction. 
 
+
 Key features of the program include:
 
 Data Preprocessing: The dataset is preprocessed to handle categorical variables, remove outliers, and standardize numerical features.
