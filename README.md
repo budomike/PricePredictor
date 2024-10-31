@@ -21,3 +21,8 @@ This program serves as a practical example of applying machine learning techniqu
 The correlation heatmap provides a visual representation of the correlation between different features in the dataset. The heatmap shows a strong correlation between the square feet and the dependent variable of our application: the price.
 
 ![correlation_heatmap](https://i.imgur.com/WKcIfzJ.png)
+
+## Outlier Detection
+The outliers detection visualization includes boxplots for various features, highlighting the presence of outliers and demonstrating the impact of removing outliers on the dataset.
+
+![outlier_charts](https://i.imgur.com/j96tUFs.png)
