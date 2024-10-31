@@ -13,3 +13,11 @@ Key features of the program include:
 3. Prediction Functionality: Users can make predictions for house prices by inputting relevant features, such as square footage, bedrooms, bathrooms, neighborhood, and year built.
 
 This program serves as a practical example of applying machine learning techniques to real-world datasets.
+
+## Price Example
+![pricing_example](https://i.imgur.com/0lr4DZQ.png)
+
+## Correlation Heatmap
+The correlation heatmap provides a visual representation of the correlation between different features in the dataset. The heatmap shows a strong correlation between the square feet and the dependent variable of our application: the price.
+
+![correlation_heatmap](https://i.imgur.com/WKcIfzJ.png)
